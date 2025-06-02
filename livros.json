@@ -1,0 +1,210 @@
+[
+  {
+    "codigo": "00001",
+    "autor": "Machado de Assis",
+    "titulo": "Dom Casmurro",
+    "ano": 1899,
+    "capa": "https://via.placeholder.com/200x300?text=Dom+Casmurro",
+    "editora": "Editora Brasileira"
+  },
+  {
+    "codigo": "00002",
+    "autor": "José de Alencar",
+    "titulo": "Iracema",
+    "ano": 1865,
+    "capa": "https://via.placeholder.com/200x300?text=Iracema",
+    "editora": "Editora Nacional"
+  },
+  {
+    "codigo": "00003",
+    "autor": "Clarice Lispector",
+    "titulo": "A Hora da Estrela",
+    "ano": 1977,
+    "capa": "https://via.placeholder.com/200x300?text=A+Hora+da+Estrela",
+    "editora": "Rocco"
+  },
+  {
+    "codigo": "00004",
+    "autor": "Graciliano Ramos",
+    "titulo": "Vidas Secas",
+    "ano": 1938,
+    "capa": "https://via.placeholder.com/200x300?text=Vidas+Secas",
+    "editora": "Record"
+  },
+  {
+    "codigo": "00005",
+    "autor": "Jorge Amado",
+    "titulo": "Capitães da Areia",
+    "ano": 1937,
+    "capa": "https://via.placeholder.com/200x300?text=Capitães+da+Areia",
+    "editora": "Companhia das Letras"
+  },
+  {
+    "codigo": "00006",
+    "autor": "Paulo Coelho",
+    "titulo": "O Alquimista",
+    "ano": 1988,
+    "capa": "https://via.placeholder.com/200x300?text=O+Alquimista",
+    "editora": "Rocco"
+  },
+  {
+    "codigo": "00007",
+    "autor": "George Orwell",
+    "titulo": "1984",
+    "ano": 1949,
+    "capa": "https://via.placeholder.com/200x300?text=1984",
+    "editora": "Companhia Editora"
+  },
+  {
+    "codigo": "00008",
+    "autor": "Aldous Huxley",
+    "titulo": "Admirável Mundo Novo",
+    "ano": 1932,
+    "capa": "https://via.placeholder.com/200x300?text=Admirável+Mundo+Novo",
+    "editora": "Globo"
+  },
+  {
+    "codigo": "00009",
+    "autor": "J.K. Rowling",
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "ano": 1997,
+    "capa": "https://via.placeholder.com/200x300?text=Harry+Potter+1",
+    "editora": "Rocco"
+  },
+  {
+    "codigo": "00010",
+    "autor": "J.R.R. Tolkien",
+    "titulo": "O Senhor dos Anéis",
+    "ano": 1954,
+    "capa": "https://via.placeholder.com/200x300?text=Senhor+dos+Anéis",
+    "editora": "Martins Fontes"
+  },
+  {
+    "codigo": "00011",
+    "autor": "Harper Lee",
+    "titulo": "O Sol é Para Todos",
+    "ano": 1960,
+    "capa": "https://via.placeholder.com/200x300?text=O+Sol+é+Para+Todos",
+    "editora": "José Olympio"
+  },
+  {
+    "codigo": "00012",
+    "autor": "F. Scott Fitzgerald",
+    "titulo": "O Grande Gatsby",
+    "ano": 1925,
+    "capa": "https://via.placeholder.com/200x300?text=O+Grande+Gatsby",
+    "editora": "Penguin"
+  },
+  {
+    "codigo": "00013",
+    "autor": "Jane Austen",
+    "titulo": "Orgulho e Preconceito",
+    "ano": 1813,
+    "capa": "https://via.placeholder.com/200x300?text=Orgulho+e+Preconceito",
+    "editora": "BestBolso"
+  },
+  {
+    "codigo": "00014",
+    "autor": "Mary Shelley",
+    "titulo": "Frankenstein",
+    "ano": 1818,
+    "capa": "https://via.placeholder.com/200x300?text=Frankenstein",
+    "editora": "L&PM"
+  },
+  {
+    "codigo": "00015",
+    "autor": "Leon Tolstói",
+    "titulo": "Guerra e Paz",
+    "ano": 1869,
+    "capa": "https://via.placeholder.com/200x300?text=Guerra+e+Paz",
+    "editora": "34"
+  },
+  {
+    "codigo": "00016",
+    "autor": "Fiódor Dostoiévski",
+    "titulo": "Crime e Castigo",
+    "ano": 1866,
+    "capa": "https://via.placeholder.com/200x300?text=Crime+e+Castigo",
+    "editora": "Principis"
+  },
+  {
+    "codigo": "00017",
+    "autor": "Gabriel García Márquez",
+    "titulo": "Cem Anos de Solidão",
+    "ano": 1967,
+    "capa": "https://via.placeholder.com/200x300?text=Cem+Anos+de+Solidão",
+    "editora": "Record"
+  },
+  {
+    "codigo": "00018",
+    "autor": "Franz Kafka",
+    "titulo": "A Metamorfose",
+    "ano": 1915,
+    "capa": "https://via.placeholder.com/200x300?text=A+Metamorfose",
+    "editora": "Antofágica"
+  },
+  {
+    "codigo": "00019",
+    "autor": "Albert Camus",
+    "titulo": "O Estrangeiro",
+    "ano": 1942,
+    "capa": "https://via.placeholder.com/200x300?text=O+Estrangeiro",
+    "editora": "Record"
+  },
+  {
+    "codigo": "00020",
+    "autor": "Antoine de Saint-Exupéry",
+    "titulo": "O Pequeno Príncipe",
+    "ano": 1943,
+    "capa": "https://via.placeholder.com/200x300?text=O+Pequeno+Príncipe",
+    "editora": "Agir"
+  },
+  {
+    "codigo": "00021",
+    "autor": "George R.R. Martin",
+    "titulo": "A Guerra dos Tronos",
+    "ano": 1996,
+    "capa": "https://via.placeholder.com/200x300?text=Guerra+dos+Tronos",
+    "editora": "LeYa"
+  },
+  {
+    "codigo": "00022",
+    "autor": "Stephen King",
+    "titulo": "O Iluminado",
+    "ano": 1977,
+    "capa": "https://via.placeholder.com/200x300?text=O+Iluminado",
+    "editora": "Suma"
+  },
+  {
+    "codigo": "00023",
+    "autor": "Dan Brown",
+    "titulo": "O Código Da Vinci",
+    "ano": 2003,
+    "capa": "https://via.placeholder.com/200x300?text=Código+Da+Vinci",
+    "editora": "Sextante"
+  },
+  {
+    "codigo": "00024",
+    "autor": "Suzanne Collins",
+    "titulo": "Jogos Vorazes",
+    "ano": 2008,
+    "capa": "https://via.placeholder.com/200x300?text=Jogos+Vorazes",
+    "editora": "Rocco"
+  },
+  {
+    "codigo": "00025",
+    "autor": "Khaled Hosseini",
+    "titulo": "O Caçador de Pipas",
+    "ano": 2003,
+    "capa": "https://via.placeholder.com/200x300?text=O+Caçador+de+Pipas",
+    "editora": "Nova Fronteira"
+  },
+  {
+    "codigo": "00026",
+    "autor": "Margaret Atwood",
+    "titulo": "O Conto da Aia",
+    "ano": 1985,
+    "capa": "https://via.placeholder.com/200x300?text=O+Conto+da+Aia",
+    "editora": "Rocco"
+  }
+]
