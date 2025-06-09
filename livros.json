@@ -208,11 +208,11 @@
     "editora": "Rocco"
   },
     {
-    "codigo": "00026",
-    "autor": "Margaret Atwood",
-    "titulo": "O Conto da Aia",
-    "ano": 1985,
-    "capa": "https://via.placeholder.com/200x300?text=O+Conto+da+Aia",
-    "editora": "Rocco"
+    "codigo": "00027",
+    "autor": "Franz Kafka",
+    "titulo": "O Processo",
+    "ano": 1923,
+    "capa": "https://via.placeholder.com/200x300?text=O+Processo",
+    "editora": "Franz Kafka"
   }
 ]
